@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- I am currently a student at KTH in Stockholm, Sweden 📚
+- I like game development 🕹️🎮
+- Fun fact: I have glasses 🤓
+- If you have any question or want to collaborate with me, feel free to reach out 😊
+- Contact me: Olle@nbjork.se 📫
+
 <!--
 **Ollenat/Ollenat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
