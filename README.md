@@ -4,7 +4,7 @@
 - I like game development 🕹️🎮
 - Fun fact: I have glasses 🤓
 - If you have any question or want to collaborate with me, feel free to reach out 😊
-- Contact me: Olle+github@nbjork.se 📫
+- Contact me: Ollbjobjoerk+github@gmail.com 📫
 
 <!--
 **Ollenat/Ollenat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
